@@ -3,12 +3,12 @@
 ## 一、支票識別系統
 ### 1. 系統程式構成
 - CRNN 資料夾：包含 CRNN 架構模型。
-- CRNN_model 資料夾：包含已訓練的針對漢字日期以及數字識別模型。[Google_Drive]([https://www.openai.com](https://drive.google.com/drive/folders/1TnXn9YFsKj_PJ6oRmovCwRvpWtVhYMXH?usp=sharing))
+- CRNN_model 資料夾：包含已訓練的針對漢字日期以及數字識別模型。[Google_Drive](https://drive.google.com/drive/folders/1TnXn9YFsKj_PJ6oRmovCwRvpWtVhYMXH?usp=sharing)
 - CTPN 資料夾：包含 CTPN 架構模型。
 - CTPN_model 資料夾：包含已訓練的針對目標檢測模型。[Google_Drive](https://www.openai.com)
 - icon 資料夾：系統内的圖標和圖案。
 - MICR 資料夾：包含 MICR 架構模型。
-- MICR_model：包含 MICR 模型。[Google_Drive]([https://www.openai.com](https://drive.google.com/drive/folders/1QJu8epj0_MDWWUMiY3u1AAikZJvAnC8E?usp=sharing))
+- MICR_model：包含 MICR 模型。[Google_Drive](https://drive.google.com/drive/folders/1QJu8epj0_MDWWUMiY3u1AAikZJvAnC8E?usp=sharing)
 - SQL 資料夾：包含資料庫處理相關 Python 檔案以及資料庫文件。
 - Check_demo：包含可以用於快速測試系統功能的支票圖片。
 - RecognitionLoad.py：登錄界面。
