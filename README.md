@@ -19,7 +19,7 @@
 - exe->check->RecognitionLoad.exe: 可執行檔
 - RecognitionLoad.spec: pyinstaller 生成 exe(小黑 pyinstaller RecognitionLoad.spec)
 
-### 2. 系統使用流程
+### 二、系統使用流程
 安裝完系統後，點擊 RecognitionLoad.py 進入登錄界面。輸入郵箱、密碼以及可以進入本系統。
 
 ![系統登錄介面](pic/1.png)
