@@ -5,7 +5,7 @@
 - CRNN 資料夾：包含 CRNN 架構模型。
 - CRNN_model 資料夾：包含已訓練的針對漢字日期以及數字識別模型。[Google_Drive](https://drive.google.com/drive/folders/1TnXn9YFsKj_PJ6oRmovCwRvpWtVhYMXH?usp=sharing)
 - CTPN 資料夾：包含 CTPN 架構模型。
-- CTPN_model 資料夾：包含已訓練的針對目標檢測模型。[Google_Drive](https://www.openai.com)
+- CTPN_model 資料夾：包含已訓練的針對目標檢測模型。[Google_Drive](https://drive.google.com/drive/folders/1RsLL8CCTYif6JxxSYdond92WwkOj_uU6?usp=sharing)
 - icon 資料夾：系統内的圖標和圖案。
 - MICR 資料夾：包含 MICR 架構模型。
 - MICR_model：包含 MICR 模型。[Google_Drive](https://drive.google.com/drive/folders/1QJu8epj0_MDWWUMiY3u1AAikZJvAnC8E?usp=sharing)
